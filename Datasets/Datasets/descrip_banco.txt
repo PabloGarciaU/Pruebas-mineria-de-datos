@@ -1,0 +1,14 @@
+ID: identificador único
+prestamo: el cliente aceptó la carga personal ofrecida (1 = Sí, 0 = No)
+edad: edad del cliente
+experiencia: número de años de experiencia profesional
+ingreso: ingresos anuales del cliente ($ 000)
+ZIP_cod: código postal de la dirección de la casa
+Familia: tamaño de la familia del cliente
+gasto_tarjeta: gasto promedio en tarjetas de crédito por mes ($ 000)
+educacion: nivel de educación (1) pregrado, (2) posgrado, (3) avanzado / profesional
+hipoteca: valor de la hipoteca de la casa ($ 000)
+valores: ¿el cliente tiene una cuenta de valores en el banco? (1 = Sí, 0 = No)
+certificado: ¿el cliente tiene un certificado de depósito con el banco? (1 = Sí, 0 = No)
+Online: ¿utiliza el cliente servicios bancarios por Internet (1 = Sí, 0 = No)?
+CreditCard: ¿el cliente utiliza una tarjeta de crédito emitida por Universal Bank? (1 = Sí, 0 = No)

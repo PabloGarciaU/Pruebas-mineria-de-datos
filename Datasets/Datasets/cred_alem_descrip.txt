@@ -1,0 +1,9 @@
+edad: en años. 
+sexo: niveles mujer, hombre. 
+alojamiento: niveles gratis, propio, alquilado. 
+cuenta_ahorro: niveles pequeña (< 100), moderada (100 <= ... < 500), bastante rico (500 <= ... < 1000 ) rico (>= 1000 ). 
+cuenta_cheques: niveles pequeña (< 0), moderada (0 <= ... < 200), rico(>= 200 Deutsch Mark) 
+monto_credito
+duracion: en meses
+proposito: niveles auto, muebles, radio/TV, uso domestico, reparacion, educacion, negocios, vaciones/otros. 
+clase_riesgo: niveles 1 (bueno), 2 (malo). 

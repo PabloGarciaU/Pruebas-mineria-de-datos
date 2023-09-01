@@ -1,0 +1,25 @@
+Descripción:
+
+balance_control: niveles "< 0 DM","1 - 200 DM", "> 200 DM",  "deconocido"
+duracion_prestamo: en meses
+historial_credito: niveles "pagado", "completamente pagado","pago completamente a este banco", "critico", "demorado"
+proposito: "negocios", "auto nuevo", "auto usado", "uso domestico","educacion","muebles","otros", "radio/TV","reparar", "reentrenamiento"
+monto: 
+saldo_ahorro: niveles "< 100 DM" , "> 1000 DM" , "101 - 500 DM" , "501 - 1000 DM", "desconocido"
+longitud_empleo: "> 7 años" ,   "0 - 1 años",  "1 - 4 años" , "4 - 7 años"  "no empleado"
+tasa_instalacion,
+estado_personal: niveles "hombre divorciado" ,"mujer","hombre casado","hombre soltero"
+otros_deudores: niveles "co-solicitante", "garante", "ninguno"
+residencia_hist,
+propiedad: niveles "ahorro sociedad constructora", "otro" ,"bienes raices", "desconocido/ninguno" 
+edad,
+plan_instalacion, niveles "banco", "ninguno", "tiendas"
+alojamiento, niveles "gratis", "propietario",      "renta"
+creditos_existentes,
+dependientes,
+telefono, niveles "no","si"
+trabajador_extranjero, niveles "no","si"
+trabajo, "autonomo", "empleado calificado",  "no empleado no residente", "residente no calificado"
+incumplimiento, niveles "no","si"
+
+

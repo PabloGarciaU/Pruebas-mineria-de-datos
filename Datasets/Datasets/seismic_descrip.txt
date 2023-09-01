@@ -1,0 +1,21 @@
+Los datos describen el problema del pronóstico de golpes sísmicos de alta energía (superior a 10^4 J) en una mina de carbón. 
+
+1. sismico:resultado de la evaluación del peligro sísmico por turnos en el trabajo de la mina obtenido por el método sísmico (a - ausencia de peligro, b - bajo riesgo, c - alto riesgo, d - estado de peligro) 
+2. sismoacustico: resultado de la evaluación del peligro sísmico por turnos en el trabajo de la mina obtenido por el método sismoacústico 
+3. tipo_turno: información sobre el tipo de turno (W - obtención de carbón, N - turno de preparación) 
+4. energia: energía sísmica registrada en el cambio anterior por el geófono más activo (GMax) de los geófonos que monitorean el tajo largo 
+5. pulsos: una serie de pulsos registrados en el turno anterior por GMax 
+6. desv_energia: una desviación de la energía registrada en el turno anterior por GMax de la energía promedio registrada durante ocho turnos anteriores 
+7. desv_pulsos: una desviación de una cantidad de pulsos registrados en el turno anterior por GMax del número promedio de pulsos registrados durante ocho turnos anteriores 
+8. eval_peligro: resultado de la evaluación del peligro sísmico por turnos en el trabajo de la mina obtenido por el método sismoacústico basado en el registro proveniente de GMax solamente 
+9. golpe_sism: el número de golpes sísmicos registrados en el turno anterior 
+10. golpe_sism2: el número de golpes sísmicos (en el rango de energía [10^2,10^3)) registrados en el turno anterior 
+11. golpe_sism3: el número de golpes sísmicos (en el rango de energía [10^3,10^4)) registrados en el turno anterior 
+12. golpe_sism4: el número de golpes sísmicos (en el rango de energía [10^4,10^5)) registrados en el turno anterior 
+13. golpe_sism5: el número de golpes sísmicos (en el rango de energía [10^5,10^6)) registrados en el turno anterior
+14. golpe_sism6: el número de golpes sísmicos (en el rango de energía [10^6,10^7)) registrados en el turno anterior
+15. golpe_sism7: el número de golpes sísmicos (en el rango de energía [10^7,10^8)) registrados en el turno anterior
+16. golpe_sism89: el número de golpes sísmicos (en el rango de energía [10^8,10^10)) registrados en el turno anterior
+17. total_energia: energía total de los golpes sísmicos registrados en el turno anterior 
+18. max_energia: la energía máxima de los golpes sísmicos registrados en el turno anterior 
+19. clase: el atributo de decisión - "1" significa que ocurrió un golpe sísmico de alta energía en el siguiente turno ("estado peligroso"), "0" significa que no ocurrió ningún golpe sísmico de alta energía en el siguiente turno ("estado no peligroso") 

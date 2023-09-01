@@ -1,0 +1,7 @@
+edad: en años
+sexo: 1:mujer,2:hombre
+masa_corporal: índice de masa corporal kg/m^2
+num_hijos: número de hijos
+fumador: 1:no,2:si
+region: 1:noreste,2:noroeste,3:sureste,4:suroeste
+cargo_seguromed: los gastos médicos totales cargados al plan para el año

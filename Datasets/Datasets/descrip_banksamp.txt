@@ -1,0 +1,17 @@
+age: edad
+job: tipo de trabajo
+marital: estado civil
+education: educación 
+default: tiene crédito en mora? ('no','yes','unknown')
+balance: balance
+housing: tiene préstamo para vivienda? ('no','yes','unknown')
+loan: tiene préstamo personal? ('no','yes','unknown')
+contact: tipo de comunicación de contacto
+day: día del último contacto
+month: mes del último contacto
+duration: duración en segundos del último contacto
+campaign: número de contactos realizados durante esta campaña y para este cliente 
+pdays: número de días que pasaron después de que el cliente fue contactado por última vez desde una campaña anterior (numérico; 999 significa que el cliente no fue contactado previamente) 
+previous: número de contactos realizados antes de esta campaña y para este cliente 
+poutcome: resultado de la campaña de marketing anterior
+subscribed: ha suscrito un depósito a plazo?
